@@ -17,8 +17,8 @@
 - Java
 - Javascript
 - Python
-- c++
+  
 
 ## 🛠️ Tech Stack
-- 💻 VS Code
-- 💊 IntelliJ IDEA
+- VS Code
+- IntelliJ IDEA
