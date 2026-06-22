@@ -15,7 +15,8 @@
 ## Programming Language Learning
 
 - Java
-- Javascript
+- <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/9b61a3fa-cc64-4043-88a5-b3b183d1cb09" />
+Javascript
 - Python
   
 
