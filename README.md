@@ -12,7 +12,7 @@
 
 풀스택 개발자를 목표로 공부하고 있는 학생입니다.
 
-## 📚 Currently Learning
+## Programming Language Learning
 
 - Java
 - Javascript
@@ -22,3 +22,4 @@
 ## 🛠️ Tech Stack
 - VS Code
 - IntelliJ IDEA
+- PyCharm
