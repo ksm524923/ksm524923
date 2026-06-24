@@ -10,16 +10,16 @@
 
 👋 About Me
 
-풀스택 개발자를 목표로 공부하고 있는 학생입니다.
+프론트엔드 개발자를 목표로 공부하고 있는 학생입니다.
 
 ## Programming Language Learning
 
 - Java
 - Javascript
-- Python
+- Css
+- html
   
 
 ## 🛠️ Tech Stack
 - VS Code
 - IntelliJ IDEA
-- PyCharm
