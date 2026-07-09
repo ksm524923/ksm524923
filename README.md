@@ -7,5 +7,5 @@
 ## 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,flutter" />
+  <img src="https://skillicons.dev/icons?i=github,flutter" />
 </p>
