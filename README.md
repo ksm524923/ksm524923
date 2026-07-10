@@ -1,7 +1,30 @@
-프론트엔드 지향하는 개발자 고성민입니다
+# 👋 Hello, I'm a passionate Developer!
 
-__##skills__
+프론트엔드와 모바일 앱 개발에 깊은 관심을 가지고 있는 개발자입니다. 
+사용자에게 친화적이고 매끄러운 UI/UX를 구현하는 것을 좋아하며, 웹과 앱을 넘나드는 다양한 경험을 쌓아가고 있습니다.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,github,flutter,react" />
-</p>
+### 🔭 About Me
+- 🌱 **Frontend & App Development**에 주력하고 있습니다.
+- 💡 새로운 기술을 배우고 프로젝트에 적용하는 것을 즐깁니다.
+- 🤝 협업과 코드 리뷰를 통해 함께 성장하는 것을 지향합니다.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Mobile / App** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Backend / Language** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
+</div>
